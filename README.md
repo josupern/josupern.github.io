@@ -62,6 +62,6 @@
     }
  </script>
  <!-- Cambiado el tamaño del iframe para que se adapte al ancho de la pantalla -->
- <iframe src="https://www.youtube.com/embed/pfRR8D4aQW8?autoplay=1&mute=1" width="20%" height="30%" allow="autoplay" margin="auto" display="block"></iframe>
+ <iframe src="https://www.youtube.com/embed/pfRR8D4aQW8?autoplay=1&mute=1" width="40%" height="30%" allow="autoplay" margin="auto" display="block"></iframe>
 </body>
 </html>
