@@ -58,7 +58,7 @@
     function showMessage(e) {
       e.stopPropagation();
       alert("¡Feliz cumpleaños, Lau!");
-      document.body.innerHTML = "<div class='image-container'><img src='[https://img.freepik.com/vector-premium/dibujo-ramo-rosas-amarillas_564737-1587.jpg](https://i.pinimg.com/564x/be/c3/e2/bec3e271dd8f0277777384914f799e1e.jpg)' alt='Una flor amarilla' class='image'></div>";
+      document.body.innerHTML = "<div class='image-container'><img src='https://i.pinimg.com/564x/be/c3/e2/bec3e271dd8f0277777384914f799e1e.jpg' alt='Una flor amarilla' class='image'></div>";
     }
  </script>
  <!-- Cambiado el tamaño del iframe para que se adapte al ancho de la pantalla -->
